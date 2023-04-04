@@ -1,1 +1,1 @@
-## Just a ImageHost.
+## Just an ImageHost.
