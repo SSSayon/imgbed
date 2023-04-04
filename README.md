@@ -1,1 +1,1 @@
-# 搭个图床
+## Just a ImageHost.
